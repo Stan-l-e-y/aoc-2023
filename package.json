@@ -1,0 +1,21 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-esm 01/solution-b.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.1",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "typescript": "^5.3.2"
+  }
+}
